@@ -1,7 +1,21 @@
+**Instrutor**: Rickson Thompson
+
+**Participantes:**
+
+1. Mateus Filipe
+2. Letícia Silva
+3. Jonathan Silva
+4. Letícia Barros
+5. Geovana Silva
+6. Ivson Matheus
+7. Rafael Caria
+8. José Litaiff
+9. Michel
+10. Deangelly Figueiredo
+11. Marcus Vinícius
+
 **Repositório do projeto feito:**
 [https://github.com/treinamento-backend-nodejs/class-first-api](https://github.com/treinamento-backend-nodejs/class-first-api "smartCard-inline")
-
-‌
 
 1. **Fundamentos e princípios do NodeJS**
    - `[O que é]` Uma plataforma de desenvolvimento para aplicações do lado do servidor.
@@ -131,3 +145,7 @@ Configuração do projeto para usar TypeScript:
   ]
 }
 ```
+
+---
+
+O que são variáveis e onde rodam, diferença breve entre TypeScript e Javascript, o que são Clients e o que é uma API [https://trello.com/1/cards/644487468495c3812ffbea75/attachments/6446a1106d0419ee8329030f/previews/6446a1116d0419ee832905f7/download/Sem_t%C3%ADtulo-2023-04-22-1509.png](https://trello.com/1/cards/644487468495c3812ffbea75/attachments/6446a1106d0419ee8329030f/previews/6446a1116d0419ee832905f7/download/Sem_t%C3%ADtulo-2023-04-22-1509.png "‌")
